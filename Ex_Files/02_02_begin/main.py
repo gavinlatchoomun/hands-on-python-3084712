@@ -10,3 +10,8 @@ greet_format = "Hello {}"
 formatted = greet_format.format(name)
 
 print(intrupution, formatted)
+print(intrupution)
+print(formatted)
+print(intrupution.replace("John", "Henry"))
+print(formatted.upper())
+print(intrupution.lower())
